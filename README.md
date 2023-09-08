@@ -14,3 +14,6 @@ DICAS: Utilizar letras minúsculas em variáveis. (obrigatório)
 TERMOS: camelCase = Quando há letras maiúsculas e minúsculas nas variáveis (não recomendado). 
         
         string template = Inserir texto ao imprimir, podendo incluir variáveis ja definidas através do código "${}".
+
+        Constam também os exerecícios 1 e 2 do minicurso.
+        
